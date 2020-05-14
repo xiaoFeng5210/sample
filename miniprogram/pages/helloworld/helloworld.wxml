@@ -1,0 +1,7 @@
+<view class="main">
+  <image class="user-avator" src="../../images/avator.png"></image>
+  <text class="user-name">Hello, xiaoFeng</text>
+  <view class="moto-box">
+  <text class="moto">开启code之旅</text>
+  </view>
+</view>
