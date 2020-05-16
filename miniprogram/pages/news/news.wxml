@@ -1,2 +1,7 @@
-<!--miniprogram/pages/news/news.wxml-->
-<text>miniprogram/pages/news/news.wxml</text>
+<view>
+<swiper indicator-dots="true" autoplay="true" interval="2000">
+  <swiper-item>content</swiper-item>
+  <swiper-item>content</swiper-item>
+  <swiper-item>content</swiper-item>
+</swiper>
+</view>

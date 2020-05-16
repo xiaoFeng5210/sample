@@ -1,1 +1,8 @@
-/* miniprogram/pages/news/news.wxss */
+swiper {
+  width: 100%;
+  height: 600rpx;
+}
+
+swiper image {
+  height: 600rpx;
+}
